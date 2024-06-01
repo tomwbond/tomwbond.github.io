@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## All sorts of things I've published and places you can find me
+## A list of my links
 
 - [Instagram](https://www.instagram.com/tomwbond/) (pictures from my travels)
 
