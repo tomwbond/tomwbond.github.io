@@ -4,9 +4,9 @@ layout: default
 
 ## A list of my links
 
-- [Instagram](https://www.instagram.com/tomwbond/) (pictures from my travels)
+[Instagram](https://www.instagram.com/tomwbond/) (pictures from my travels)
 
-- [My mini CV](https://tombond.uk/)
+[My mini CV](https://tombond.uk/)
 
 My photographs (various collections, including my monolithic final year university project on indoor plants) - coming soon
 
