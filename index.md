@@ -2,29 +2,29 @@
 layout: default
 ---
 
-## A list of my links
+## A disorganised list of links
 
 - [Instagram](https://www.instagram.com/tomwbond/) (pictures from my travels)
 
 - [My mini CV](https://tombond.uk/)
 
-- My photographs (various collections, including my monolithic final year university project on indoor plants) - coming soon
+- My photographs (various collections, including my bombastic final year university project on indoor plants) - coming soon
 
-- [Medium](https://medium.com/@tomwbond) (travel stories and articles on anxiety)
+- [Medium](https://medium.com/@tomwbond) profile (travel stories and articles on anxiety)
 
 - [Tom's Travel Pins](https://tomwbond.github.io/pins/) (places I recommend along with mini reviews and Google Maps links)
 
 - [Strava](https://www.strava.com/athletes/8772755) (are you a fellow runner?)
 
-- [Love Cities: Skylines](https://www.lovecitiesskylines.com/) (reviews, guides, and tips for the popular city builder game)
+- [Love Cities: Skylines](https://www.lovecitiesskylines.com/) website (reviews, guides, and tips for the popular city builder game)
 
-- [Siblings Gaming Badly](https://www.youtube.com/@SiblingsGamingBadly) (YouTube videos playing games poorly with my sister)
+- [Siblings Gaming Badly](https://www.youtube.com/@SiblingsGamingBadly) YouTube channel (chaotic games with my sister)
 
-- [The Nonsense Detectives](https://podcasters.spotify.com/pod/show/nonsensedetectives/episodes/Local-issues-under-the-microscope-e2hu6oo) (poorly-planned podcast with my sister where we delve into local hot topics)
+- [The Nonsense Detectives](https://podcasters.spotify.com/pod/show/nonsensedetectives/episodes/Local-issues-under-the-microscope-e2hu6oo) podcast (a poorly-planned show where my sister and I delve into hot local issues)
 
 - [LinkedIn](https://www.linkedin.com/in/tomwbond/) (I don't really use it... but here it is)
 
-- [Bai's eulogy](https://tomwbond.github.io/bai/) (the reading I gave at my sister's memorial service)
+- [Bai's eulogy](https://tomwbond.github.io/bai/) (the reading I gave at my sister's memorial service in 2019)
 
 - Fiction writing. Where on earth would this go? - coming soon
 
