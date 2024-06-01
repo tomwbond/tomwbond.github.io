@@ -2,6 +2,41 @@
 layout: default
 ---
 
+# A list of my links
+
+[Instagram](https://www.instagram.com/tomwbond/) (pictures from my travels)
+
+[My mini CV](https://tombond.uk/)
+
+My photographs (various collections, including my monolithic final year university project on indoor plants)
+
+[Medium](https://medium.com/@tomwbond) (travel stories and articles on anxiety)
+
+[Tom's Travel Pins](https://tomwbond.github.io/pins/) (places I recommend along with mini reviews and Google Maps links)
+
+[Strava](https://www.strava.com/athletes/8772755) (are you a fellow runner?)
+
+[Love Cities: Skylines](https://www.lovecitiesskylines.com/) (reviews, guides, and tips for the popular city builder game)
+
+[Siblings Gaming Badly](https://www.youtube.com/@SiblingsGamingBadly) (YouTube videos playing games poorly with my sister)
+
+[The Nonsense Detectives](https://podcasters.spotify.com/pod/show/nonsensedetectives/episodes/Local-issues-under-the-microscope-e2hu6oo) (poorly-planned podcast with my sister where we delve into local hot topics)
+
+Fiction writing. Where on earth would this go?
+
+PT
+
+tom plays
+
+jack of some trades
+
+[LinkedIn](https://www.linkedin.com/in/tomwbond/) (I don't really use it... but here it is)
+
+Bai's eulogy (the reading I gave at my sister's memorial service)
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
