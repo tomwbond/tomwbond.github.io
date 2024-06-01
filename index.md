@@ -32,4 +32,4 @@ layout: default
 
 - tom plays - coming soon
 
-- jack of some trades - coming soon
+- Jack of Some Trades - coming soon
