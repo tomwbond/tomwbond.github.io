@@ -4,17 +4,17 @@ layout: default
 
 ## A disorganised list of links
 
-- [Instagram](https://www.instagram.com/tomwbond/) (pictures from my travels)
+- **[Instagram](https://www.instagram.com/tomwbond/)** (pictures from my travels)
 
-- [My mini CV](https://tombond.uk/)
+- **[My mini CV](https://tombond.uk/)**
 
-- My photographs (various collections, including my bombastic final year university project on indoor plants) - coming soon
+- **My photographs** (various collections, including my bombastic final year university project on indoor plants) - coming soon
 
-- [Medium](https://medium.com/@tomwbond) profile (travel stories and articles on anxiety)
+- **[Medium](https://medium.com/@tomwbond)** profile (travel stories and articles on anxiety)
 
-- [Tom's Travel Pins](https://tomwbond.github.io/pins/) (places I recommend along with mini reviews and Google Maps links)
+- **[Tom's Travel Pins](https://tomwbond.github.io/pins/)** (places I recommend along with mini reviews and Google Maps links)
 
-- [Strava](https://www.strava.com/athletes/8772755) (are you a fellow runner?)
+- **[Strava](https://www.strava.com/athletes/8772755)** (are you a fellow runner?)
 
 - [Love Cities: Skylines](https://www.lovecitiesskylines.com/) website (reviews, guides, and tips for the popular city builder game)
 
