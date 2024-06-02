@@ -18,6 +18,8 @@ layout: default
 
 - **[Siblings Gaming Badly](https://www.youtube.com/@SiblingsGamingBadly)** YouTube channel (chaotic games with my sister)
 
+- **[Goose Gaming](https://www.youtube.com/channel/UC35jLB16fCU6UCBV8s3A7tg)** YouTube channel (gaming videos by me)
+
 - **[The Nonsense Detectives](https://podcasters.spotify.com/pod/show/nonsensedetectives/episodes/Local-issues-under-the-microscope-e2hu6oo)** podcast (a poorly-planned show where my sister and I delve into hot local issues)
 
 - **[LinkedIn](https://www.linkedin.com/in/tomwbond/)** (I don't really use it... but here it is)
@@ -28,10 +30,10 @@ layout: default
 
 - **PT** - coming soon
 
-- **tom plays** - coming soon
+
 
 - **Jack of Some Trades** - coming soon
 
 - **[Mongol Rally](https://mongolrallyarchive.wordpress.com/)** (archived site for our sadly cancelled 2020 attempt to drive to Mongolia in a 27-year old Peugeot 106. Yes, I'm still sore about it)
 
-- **DeviantArt** profile (*old* photos from my teenage years!)
+- **[DeviantArt](https://www.deviantart.com/jervis38)** profile (*old* photos, including many from my teenage years!)
