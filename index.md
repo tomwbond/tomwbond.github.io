@@ -8,6 +8,8 @@ layout: default
 
 - **[My photographs](https://tombond.myportfolio.com/)** (various collections, including my bombastic final year university project on indoor plants)
 
+- **[Exposure](https://tombond.exposure.co/)** profile (photographies from Chernobyl, Isle of Syke and Morocco)
+
 - **[Medium](https://medium.com/@tomwbond)** profile (travel stories and articles on anxiety)
 
 - **[Tom's Travel Pins](https://tomwbond.github.io/pins/)** (places I recommend along with mini reviews and Google Maps links)
