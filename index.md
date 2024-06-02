@@ -34,8 +34,6 @@ layout: default
 
 - **PT** - coming soon
 
-
-
 - **Jack of Some Trades** - coming soon
 
 - **[Mongol Rally](https://mongolrallyarchive.wordpress.com/)** (archived site for our sadly cancelled 2020 attempt to drive to Mongolia in a 27-year old Peugeot 106. Yes, I'm still sore about it)
