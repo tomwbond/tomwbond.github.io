@@ -6,7 +6,7 @@ layout: default
 
 - **[My mini CV](https://tombond.uk/)**
 
-- **My photographs** (various collections, including my bombastic final year university project on indoor plants) - coming soon
+- **[My photographs](https://tombond.myportfolio.com/)** (various collections, including my bombastic final year university project on indoor plants)
 
 - **[Medium](https://medium.com/@tomwbond)** profile (travel stories and articles on anxiety)
 
