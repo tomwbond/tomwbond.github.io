@@ -16,6 +16,8 @@ layout: default
 
 - **[Strava](https://www.strava.com/athletes/8772755)** (are you a fellow runner?)
 
+- **[Parkrun](https://www.parkrun.org.uk/parkrunner/2648871/_)** profile (I'm an avid parkrunner!)
+
 - **[Love Cities: Skylines](https://www.lovecitiesskylines.com/)** website (reviews, guides, and tips for the popular city builder game)
 
 - **[Siblings Gaming Badly](https://www.youtube.com/@SiblingsGamingBadly)** YouTube channel (chaotic games with my sister)
