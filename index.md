@@ -24,7 +24,7 @@ layout: default
 
 - **[Bai's eulogy](https://tomwbond.github.io/bai/)** (the reading I gave at my sister's memorial service in 2019)
 
-- **Fiction writing**. Where on earth would this go? - coming soon
+- **Fiction writing** - coming soon
 
 - **PT** - coming soon
 
@@ -32,6 +32,6 @@ layout: default
 
 - **Jack of Some Trades** - coming soon
 
-- **Mongol Rally 2020** (sadly cancelled attempt to drive to Mongolia in a 27-year old Peugeot 106) - coming soon
+- **[Mongol Rally](https://mongolrallyarchive.wordpress.com/)** (archived site for our sadly cancelled 2020 attempt to drive to Mongolia in a 27-year old Peugeot 106. Yes, I'm still sore about it)
 
 - **DeviantArt** profile (*old* photos from my teenage years!)
