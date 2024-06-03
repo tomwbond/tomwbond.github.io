@@ -14,9 +14,9 @@ layout: default
 
 - **[Tom's Travel Pins](https://tomwbond.github.io/pins/)** (places I recommend along with mini reviews and Google Maps links)
 
-- **[Strava](https://www.strava.com/athletes/8772755)** (are you a fellow runner?)
+- **[Strava](https://www.strava.com/athletes/8772755/)** (are you a fellow runner?)
 
-- **[Parkrun](https://www.parkrun.org.uk/parkrunner/2648871/_)** profile (I'm an avid parkrunner!)
+- **[Parkrun](https://www.parkrun.org.uk/parkrunner/2648871/)** profile (I'm an avid parkrunner!)
 
 - **[Love Cities: Skylines](https://www.lovecitiesskylines.com/)** website (reviews, guides, and tips for the popular city builder game)
 
