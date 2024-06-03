@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 - **[Instagram](https://www.instagram.com/tomwbond/)** (pictures from my travels)
 
 - **[My mini CV](https://tombond.uk/)**
