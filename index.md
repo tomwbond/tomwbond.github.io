@@ -27,7 +27,7 @@ layout: default
 
 - **[LinkedIn](https://www.linkedin.com/in/tomwbond/)** (I don't really use it... but here it is)
 
-- **[Bai's eulogy](https://tomwbond.github.io/bai/)** (the reading I gave at my sister's memorial service in 2019)
+- **[Some of Bai's things](https://tomwbond.github.io/bai/)** (a place to find some of my sister Bai's amazing writing)
 
 - **Fiction writing** - coming soon
 
