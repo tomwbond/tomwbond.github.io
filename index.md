@@ -7,6 +7,8 @@ layout: default
 
 - **[My photographs](https://tombond.myportfolio.com/)** (various collections, including my bombastic final year university project on indoor plants)
 
+- **[Burners by Tom](https://www.instagram.com/burnersbytom/)** (a place to put less good photographs as a way to practice taking and publishing regularly)
+
 - **[Exposure](https://tombond.exposure.co/)** profile (photographs from Chernobyl, Isle of Syke and Morocco)
 
 - **[Medium](https://medium.com/@tomwbond)** profile (travel stories and articles on anxiety)
