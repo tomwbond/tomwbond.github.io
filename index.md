@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+- **[Sussex RunFest](https://www.sussexrunfest.co.uk/)** (2025 running and wellbeing festival that I'm organising)
+
 - **[Instagram](https://www.instagram.com/tomwbond/)** (pictures from my travels)
 
 - **[My mini CV](https://tombond.uk/)**
